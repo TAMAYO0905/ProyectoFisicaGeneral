@@ -32,16 +32,3 @@ mvn -q package
 java -cp target/movimiento-armonico-1.0-SNAPSHOT.jar:target/dependency/* \
   edu.proyectofinal.movimientoarmonico.Main
 ```
-
-En Windows puedes usar `;` en lugar de `:` para separar rutas en el `-cp`.
-
-Los gráficos se guardan en la carpeta `graficos/`.
-
-## Próximos pasos según el enunciado
-
-Sigue las indicaciones de semanas 1 a 6 del PDF:
-
-1. Completar los archivos de teoría (`teoria_*.md`).
-2. Ampliar el código para el ajuste de Mínimos Cuadrados según las transformaciones físicas necesarias.
-3. Implementar más pruebas unitarias que verifiquen los cálculos.
-4. Completar `informe.md` con la teoría, resultados, discusión, limitaciones y recomendaciones.
