@@ -1,7 +1,5 @@
 # Proyecto Laboratorio de Física General
 
-Repositorio base para el proyecto de Movimiento Armónico Simple descrito en el enunciado del laboratorio.fileciteturn0file0
-
 ## Cómo compilar y ejecutar
 
 Desde la carpeta raíz del proyecto:
