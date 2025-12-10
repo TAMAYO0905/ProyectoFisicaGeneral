@@ -15,3 +15,4 @@ mvn -q package
 java -cp target/movimiento-armonico-1.0-SNAPSHOT.jar:target/dependency/* \
   edu.proyectofinal.movimientoarmonico.Main
 ```
+Prueba de pull request y Java CI
