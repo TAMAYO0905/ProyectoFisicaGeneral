@@ -1,3 +1,4 @@
+package edu.proyectofinal.movimientoarmonico;
 import java.util.Scanner;
 
 public class sumas2 {
