@@ -20,8 +20,5 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Mensaje de Miguel-Chappy
-        run: echo "CI ejecutado correctamente - Semana 3 (aporte: Miguel-Chappy)"
-
       - name: Build with Maven
         run: mvn -B clean test
