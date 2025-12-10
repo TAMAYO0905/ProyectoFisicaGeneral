@@ -20,7 +20,6 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      # Paso añadido por Miguel-Chappy (solo muestra un mensaje)
       - name: Mensaje de Miguel-Chappy
         run: echo "CI ejecutado correctamente - Semana 3 (aporte: Miguel-Chappy)"
 
